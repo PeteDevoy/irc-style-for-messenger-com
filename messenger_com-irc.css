@@ -1,3 +1,4 @@
+@-moz-document domain("www.messenger.com") {
 @namespace url(http://www.w3.org/1999/xhtml);
 /**
  * IRC Style for messenger.com
@@ -143,4 +144,5 @@ a {
 ._5iwm ._58al {
     border-style: none;
     border-bottom: 1px solid #ccc;
+}
 }
