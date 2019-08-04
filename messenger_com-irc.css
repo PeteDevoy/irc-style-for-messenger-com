@@ -11,7 +11,7 @@ h1, a, span, p, strong, div, input {
 }
 
 /*hide chat bubble background*/
-.__i_ div {
+.__i_ div, ._nd_ ._hh7._6ybn {
     background-color: #fff ;
     color: #000 !important;
     font-family: 'Lucida Console', 'Courier New', 'Consolas';
